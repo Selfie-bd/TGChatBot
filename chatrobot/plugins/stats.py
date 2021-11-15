@@ -27,4 +27,4 @@ async def stark(event):
 
 @chatbot_cmd("repo", is_args=False)
 async def stark(event):
-    await event.reply("<b><u>My Repo is Here :</b></u> <code>https://github.com/CyberBoyAyush/TGChatBot</code>", parse_mode="HTML")
+    await event.reply("<b><u>My Repo is Here :</b></u> <code>https://github.com/selfie-bd/TGChatBot</code>", parse_mode="HTML")
