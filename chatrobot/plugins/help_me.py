@@ -63,8 +63,8 @@ async def help(event):
         await event.edit(
             "You Can Deploy Your Own ChatBot By Repo Down There. \nThank You For Contacting Me.",
             buttons=[
-                [Button.url("Repo⚔️", "https://github.com/CyberBoyAyush/TGChatBot")],
-                [Button.url("Need Help ❓", "t.me/CyberBoyAyushBot")],
+                [Button.url("Repo⚔️", "https://github.com/selfie-bd/TGChatBot")],
+                [Button.url("Need Help ❓", "t.me/@FeedbackdcBot")],
             ],
         )
         
